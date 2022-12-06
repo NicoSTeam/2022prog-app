@@ -1,5 +1,5 @@
 # 2022prog-app
-# Steven Pereira Gómez - Programación de Aplicaciones - UTEC, MALDOANDO.
+Programación de Aplicaciones - UTEC, MALDOANDO.
 
 Proyecto del curso, realizada con los compañeros:
  *      Steven Pereira - steven.pereira0496@gmail.com 
